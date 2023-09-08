@@ -1,0 +1,9 @@
+Fait :
+	- sauvegarder une nouvelle personne
+	- ajouter un emploi
+	- renvoyer toutes les personnes
+	- renvoyer toutes les personnes ayant travaillé pour une entreprise donnée
+
+Non Fait :
+	- renvoyer tous les emplois d'une personne entre 2 plages
+	- enregistrement dans la base de données
